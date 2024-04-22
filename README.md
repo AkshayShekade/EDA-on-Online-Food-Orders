@@ -1,7 +1,7 @@
 # Exploratory Data Analysis (EDA) Project
 
 ## Overview
-This project aims to perform Exploratory Data Analysis (EDA) on a dataset to gain insights, identify patterns, and understand the underlying structure of the data. EDA is an essential step in the data analysis process and helps in formulating hypotheses, guiding feature engineering, and preparing for modeling.
+This project aims to perform Exploratory Data Analysis (EDA) on a dataset to gain insights, identify patterns, and understand the underlying structure of the data.
 
 ## Objectives
 - Explore the dataset to understand its characteristics and distributions.
